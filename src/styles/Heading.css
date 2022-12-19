@@ -1,0 +1,20 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vmax;
+}
+
+.heading div{
+    background-color: rgba(39, 39, 39, 0.274);
+    height: 1px;
+    width: 30vw;
+}
+
+.heading p{
+    margin: 3vmax;
+    color: rgb(77,77,77);
+    font-size: 2.5rem;
+    font-family:   Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
